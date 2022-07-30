@@ -1,5 +1,5 @@
 this is a new blog
 ---
-title: "Welcome to my blog"
+title: "first blog"
 date: 2022-07-30
 ---
